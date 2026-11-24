@@ -281,7 +281,7 @@ This project is an independent educational and portfolio prototype. It is not af
 
 ---
 
-**Author:** [Your Name]
+**Author:** Worlasi Odei Fianko
 
 **Project:** Pharmaceutical Supply Chain Intelligence System
 
