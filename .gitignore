@@ -1,0 +1,35 @@
+
+# Python environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# OS files
+.DS_Store
+
+# IDE files
+.vscode/
+
+# Temporary files
+*.log
+
+# Generated datasets
+data/raw/
+data/processed/
+
+# Local tool configuration
+.claude/
+.agents/
+s
+# Notebook-generated outputs
+notebooks/data/
