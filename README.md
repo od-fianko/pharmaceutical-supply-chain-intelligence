@@ -152,6 +152,22 @@ The Streamlit dashboard provides:
 
 The dashboard distinguishes original synthetic records from controlled synthetic test scenarios.
 
+
+### Dashboard Screenshots
+
+**Dashboard Overview**
+
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+**Geographic Activity**
+
+![Geographic Activity](screenshots/geographic-activity.png)
+
+**Anomaly and Risk Monitoring**
+
+![Anomaly Monitoring](screenshots/anomaly-monitoring.png)
+
+
 ## 9. Project Structure
 
 ```text
